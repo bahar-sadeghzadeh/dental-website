@@ -42,10 +42,7 @@ const TopArea: React.FC = () => {
                   <a href="#home">home</a>
                 </li>
                 <li className="scroll">
-                  <a href="#works">how it works</a>
-                </li>
-                <li className="scroll">
-                  <a href="#explore">explore</a>
+                  <a href="#works">treatment</a>
                 </li>
                 <li className="scroll">
                   <a href="#reviews">review</a>

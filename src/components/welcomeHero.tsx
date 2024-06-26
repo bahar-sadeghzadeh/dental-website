@@ -6,13 +6,10 @@ const WelcomeHero: React.FC = () => {
       <div className="container">
         <div className="welcome-hero-txt">
           <h2>
-            best place to find and explore <br />
-            that all you need
+            welcome to your dental klinic <br />
+            all you need
           </h2>
-          <p>
-            Find Best Place, Restaurant, Hotel, Real State and many more think
-            in just One click
-          </p>
+          <p>Find Best Service</p>
         </div>
         <div className="welcome-hero-serch-box">
           <div className="welcome-hero-form">

@@ -16,10 +16,7 @@ const Footer: React.FC = () => {
             <div className="col-sm-9">
               <ul className="footer-menu-item">
                 <li className="scroll">
-                  <a href="#works">how it works</a>
-                </li>
-                <li className="scroll">
-                  <a href="#explore">explore</a>
+                  <a href="#works">treatment</a>
                 </li>
                 <li className="scroll">
                   <a href="#reviews">review</a>
@@ -30,9 +27,6 @@ const Footer: React.FC = () => {
                 <li className="scroll">
                   <a href="#contact">contact</a>
                 </li>
-                <li className="scroll">
-                  <a href="#account">my account</a>
-                </li>
               </ul>
             </div>
           </div>
@@ -41,8 +35,7 @@ const Footer: React.FC = () => {
           <div className="row">
             <div className="col-sm-5">
               <p>
-                &copy;copyright. designed and developed by{" "}
-                <a href="https://www.themesine.com/">themesine</a>
+                &copy;copyright. designed and developed by <a href="">bahar</a>
               </p>
             </div>
             <div className="col-sm-7">
