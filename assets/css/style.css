@@ -121,7 +121,8 @@ html,body{height: 100%;}
 /*-------------------------------------
         2. Header-top
 --------------------------------------*/
-.header-top{border-bottom:1px solid #f6f8fa;}
+.header-top{border-bottom:1px solid #f6f8fa; display: flex;
+    flex-direction: row-reverse;}
 
 .header-top ul li {display: inline-block;}
 
